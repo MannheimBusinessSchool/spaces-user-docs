@@ -1,0 +1,6 @@
+site_name: MBSx Spaces User Guide
+site_url: https://spaces-user-docs.github.io
+theme: material
+nav:
+  - WorkAdventure: workadventure.md
+  - Hub: hub.md
