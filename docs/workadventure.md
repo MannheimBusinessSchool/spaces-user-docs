@@ -10,6 +10,8 @@ but for the best experience use one of the following browser on your desktop pc:
 * [Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
+**Please use Chrome at the moment**
+
 ## Login
 
 You can either login via the [hub](hub.md) or with an invite link.
