@@ -87,15 +87,3 @@ and talk with the person you went up to. You can stand together in a group up to
 You have to go to one of the rooms scattered around the map. Not all of them work are hooked up
 but most of them should be. If you are in such a room, a panel will open from the right of the
 browser that loads a group video call. If you want to leave that call just walk out of the room.
-
-### The Map
-
-The map is composed of a central house and a lot of space around it.
-In the areas marked red you can have a conversation with a bigger group, just walk into it.
-
-The blue zone marked `Silent Zone` surpresses any kind of communication, you can go there if you want
-to work alone or just have to go to the toilet.
-
-The yellow zone marked `Tutorial` opens this website as a sidepanel.
-
-![Schematic of the coffebreak map](img/workadventure/map_layout.png)
